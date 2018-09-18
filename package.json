@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/logiclogue/rex/issues"
   },
-  "homepage": "https://github.com/logiclogue/rex#readme"
+  "homepage": "https://github.com/logiclogue/rex#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "rxjs": "^6.3.2"
+  }
 }
